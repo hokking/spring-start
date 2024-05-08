@@ -6,6 +6,8 @@
 
 * ## intelliJ 단축키 (Window)
   **https://twojun-space.tistory.com/116**
+  
+  **https://lalwr.blogspot.com/2018/04/intellij.html**
 
 ***
 
