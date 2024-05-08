@@ -4,6 +4,9 @@
 * ## markdown
   **https://github.com/jinkyukim-me/markdown_ko**
 
+* ## intelliJ 단축키 (Window)
+  **https://twojun-space.tistory.com/116**
+
 ***
 
 * ## intelliJ git 계정정보 확인 및 변경
